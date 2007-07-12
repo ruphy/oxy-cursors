@@ -14,8 +14,8 @@
    id="svg10643"
    sodipodi:version="0.32"
    inkscape:version="0.45"
-   sodipodi:docbase="/home/me/svn/oxygen-playground/ruphy/cursors/svgs/grey"
-   sodipodi:docname="size_hor.svg"
+   sodipodi:docbase="/home/me/wip/cursors/svgs/grey"
+   sodipodi:docname="fleur.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/me/svn/oxygen-playground/ruphy/arrow-shadow.png"
    inkscape:export-xdpi="67.5"
@@ -42,7 +42,7 @@
     <linearGradient
        id="linearGradient5309">
       <stop
-         style="stop-color:#535551;stop-opacity:1;"
+         style="stop-color:#bf0303;stop-opacity:1;"
          offset="0"
          id="stop5311" />
       <stop
