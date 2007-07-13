@@ -16,7 +16,7 @@
    inkscape:version="0.45"
    version="1.0"
    sodipodi:docname="cross.svg"
-   sodipodi:docbase="/home/me/svn/oxygen-playground/ruphy/cursors/svgs/grey"
+   sodipodi:docbase="/home/me/wip/cursors/svgs/grey"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:modified="true">
   <defs
@@ -169,9 +169,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="16.917945"
-     inkscape:cy="16.873396"
+     inkscape:zoom="16"
+     inkscape:cx="7.2470604"
+     inkscape:cy="20.01381"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -201,10 +201,11 @@
        id="g2193"
        transform="translate(-4.5791853e-3,-0.9912511)">
       <path
-         style="fill:#006066;fill-rule:evenodd;stroke:#00484d;stroke-width:0.61721623;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 6.3125 0.3125 L 6.3125 6.3125 L 0.3125 6.3125 L 0.3125 8.6875 L 6.3125 8.6875 L 6.3125 14.6875 L 8.6875 14.6875 L 8.6875 8.6875 L 14.6875 8.6875 L 14.65625 6.3125 L 8.6875 6.3125 L 8.6875 0.34375 L 6.3125 0.3125 z "
+         style="fill:#006066;fill-rule:evenodd;stroke:#00484d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 6.5022209,0.5049017 L 6.4970892,6.5022209 L 0.4970892,6.4580267 L 0.50390625,8.5039062 L 6.4960938,8.5039062 L 6.4882813,14.507812 L 8.4960937,14.53125 L 8.515625,8.5039062 L 14.507812,8.515625 L 14.535156,6.5 L 8.4960937,6.515625 L 8.5146296,0.5049017 L 6.5022209,0.5049017 z "
          transform="translate(4.5791853e-3,0.9912511)"
-         id="path3600" />
+         id="path3600"
+         sodipodi:nodetypes="ccccccccccccc" />
       <path
          sodipodi:nodetypes="ccccc"
          id="path3622"
