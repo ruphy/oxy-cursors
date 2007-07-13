@@ -1,6 +1,6 @@
 #!/bin/bash
 
-colors="blue yellow brown grey green violet red purple navy sea_blue emerald hot_orange"
+colors="blue yellow brown grey green violet red purple navy sea_blue emerald hot_orange white"
 # colors="green"
 oldDir=$(pwd)
 # SIZE="24"
@@ -9,7 +9,7 @@ oldDir=$(pwd)
 
 for color in $colors; do
 
-echo "Generating PNGs for the color: $color"
+echo "Generating cursors for the color: $color"
 
 mkdir -p ../cursors/$color;
 cp ../pngs/$color/*.png ../cursors/$color/
