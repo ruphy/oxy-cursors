@@ -14,7 +14,7 @@ my %colorDescription = (
  "sea_blue" => "#a8dde0 #006066 #00484d",
  "violet" => "#e8b7d7 #85026c #6a0056",
  "yellow" => "#fff6c8 #f3c300 #e3ad00",
- "white" => "#ffffff #d3d7cf #888a85"
+ "white" => "#ffffff #d3d7cf #555753"
 );
 
 sub convertFile($) {
