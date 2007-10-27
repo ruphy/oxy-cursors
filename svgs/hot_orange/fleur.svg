@@ -29,15 +29,15 @@
       <stop
          id="stop5357"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:0;" />
+         style="stop-color:#ffd9b0;stop-opacity:0;" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ffd9b0;stop-opacity:1;"
          offset="0.5"
          id="stop5361" />
       <stop
          id="stop5359"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0;" />
+         style="stop-color:#ffd9b0;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient5309">
@@ -247,7 +247,7 @@
          sodipodi:nodetypes="ccccc"
          id="path11001"
          d="M 3.6413483,1.9681703 L 3.779696,17.490509 L 14.887308,19.785771 L 21.079035,17.498126 L 3.6413483,1.9681703 z "
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8526901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#ffd9b0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8526901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </clipPath>
     <radialGradient
        inkscape:collect="always"
@@ -530,11 +530,11 @@
       <stop
          id="stop2659"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#ffd9b0;stop-opacity:1;" />
       <stop
          id="stop2661"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0;" />
+         style="stop-color:#ffd9b0;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3206">
@@ -605,7 +605,7 @@
     <linearGradient
        id="linearGradient3330">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ffd9b0;stop-opacity:0;"
          offset="0"
          id="stop3332" />
       <stop
@@ -1254,7 +1254,7 @@
          sodipodi:nodetypes="ccccc"
          id="path3871"
          d="M 3.6413483,1.9681703 L 3.779696,17.490509 L 14.887308,19.785771 L 21.079035,17.498126 L 3.6413483,1.9681703 z "
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8526901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#ffd9b0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8526901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </clipPath>
     <radialGradient
        inkscape:collect="always"
@@ -1525,11 +1525,11 @@
       <stop
          id="stop3927"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#ffd9b0;stop-opacity:1;" />
       <stop
          id="stop3929"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0;" />
+         style="stop-color:#ffd9b0;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3931">
@@ -1600,7 +1600,7 @@
     <linearGradient
        id="linearGradient3967">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ffd9b0;stop-opacity:0;"
          offset="0"
          id="stop3969" />
       <stop
@@ -2063,7 +2063,7 @@
       <stop
          id="stop3752"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:0;" />
+         style="stop-color:#ffd9b0;stop-opacity:0;" />
       <stop
          id="stop3754"
          offset="1"
@@ -2138,11 +2138,11 @@
     <linearGradient
        id="linearGradient3708">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ffd9b0;stop-opacity:1;"
          offset="0"
          id="stop3710" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ffd9b0;stop-opacity:0;"
          offset="1"
          id="stop3712" />
     </linearGradient>
@@ -2414,7 +2414,7 @@
        id="clipPath3652"
        clipPathUnits="userSpaceOnUse">
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8526901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#ffd9b0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8526901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 3.6413483,1.9681703 L 3.779696,17.490509 L 14.887308,19.785771 L 21.079035,17.498126 L 3.6413483,1.9681703 z "
          id="path3654"
          sodipodi:nodetypes="ccccc" />

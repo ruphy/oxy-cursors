@@ -183,7 +183,7 @@
          sodipodi:nodetypes="ccccc"
          id="path11001"
          d="M 3.6413483,1.9681703 L 3.779696,17.490509 L 14.887308,19.785771 L 21.079035,17.498126 L 3.6413483,1.9681703 z "
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8526901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#a8dde0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8526901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </clipPath>
     <radialGradient
        inkscape:collect="always"
@@ -454,11 +454,11 @@
       <stop
          id="stop2659"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#a8dde0;stop-opacity:1;" />
       <stop
          id="stop2661"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0;" />
+         style="stop-color:#a8dde0;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3206">
@@ -529,7 +529,7 @@
     <linearGradient
        id="linearGradient3330">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#a8dde0;stop-opacity:0;"
          offset="0"
          id="stop3332" />
       <stop
@@ -794,7 +794,7 @@
       <stop
          id="stop3969"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:0;" />
+         style="stop-color:#a8dde0;stop-opacity:0;" />
       <stop
          id="stop3971"
          offset="1"
@@ -869,11 +869,11 @@
     <linearGradient
        id="linearGradient3925">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#a8dde0;stop-opacity:1;"
          offset="0"
          id="stop3927" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#a8dde0;stop-opacity:0;"
          offset="1"
          id="stop3929" />
     </linearGradient>
@@ -1145,7 +1145,7 @@
        id="clipPath3869"
        clipPathUnits="userSpaceOnUse">
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8526901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#a8dde0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8526901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 3.6413483,1.9681703 L 3.779696,17.490509 L 14.887308,19.785771 L 21.079035,17.498126 L 3.6413483,1.9681703 z "
          id="path3871"
          sodipodi:nodetypes="ccccc" />

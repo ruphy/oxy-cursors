@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 
-my $inputDir = "grey";
+my $inputDir = "white";
 my %colorDescription = (
  # subDirColor lighterColor mediumColor darkerColor
  "blue" => "#a4c0e4 #00438a #00316e",
@@ -14,7 +14,8 @@ my %colorDescription = (
  "sea_blue" => "#a8dde0 #006066 #00484d",
  "violet" => "#e8b7d7 #85026c #6a0056",
  "yellow" => "#fff6c8 #f3c300 #e3ad00",
- "white" => "#ffffff #d3d7cf #555753"
+# "white" => "#ffffff #d3d7cf #555753"
+ "grey" => "#eeeeec #555753 #2e3436"
 );
 
 sub convertFile($) {
@@ -30,9 +31,9 @@ sub convertFile($) {
         open(IN, "<$inputDir/$inputFile") or die "$inputDir/$inputFile not found";
         open(OUT, ">$color/$inputFile") or die "Cannot create $color/$inputFile";
         while(<IN>) {
-            s/#eeeeec;/$lighterColor;/g;
-            s/#555753/$mediumColor/g;
-            s/#2e3436/$darkerColor/g;
+            s/#ffffff;/$lighterColor;/g;
+            s/#d3d7cf/$mediumColor/g;
+            s/#555753/$darkerColor/g;
             print OUT $_;
         }
         close IN;
