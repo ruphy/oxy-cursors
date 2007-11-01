@@ -633,7 +633,7 @@
        fx="8.3863096"
        fy="14.337861"
        r="5.3238101"
-       gradientTransform="matrix(1.5203586,0.3806271,-0.3230178,1.2902467,0.2674948,-4.2329)"
+       gradientTransform="matrix(1.5203586,0.3806271,-0.3230178,1.2902467,0.2674948,-4.297953)"
        gradientUnits="userSpaceOnUse"
        spreadMethod="reflect" />
     <filter
@@ -648,6 +648,18 @@
          stdDeviation="0.81524438"
          id="feGaussianBlur5433" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5447">
+      <rect
+         style="opacity:0.62633481;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.89550066;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5449"
+         width="13.74238"
+         height="25.944666"
+         x="6.159698"
+         y="1.2284324"
+         ry="1.1808966" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -687,19 +699,20 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="opacity:0.62633476;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5431)"
+       style="opacity:0.62633481;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5431)"
        d="M 6.0124886,3.604567 L 6,19.186954 L 9.5582265,17.668541 L 11.340492,22.3125 L 15.052717,20.692669 L 13.076908,16.309191 L 16.64762,14.827323 L 6.0124886,3.604567 z "
        id="path5421"
        sodipodi:nodetypes="cccccccc"
-       transform="matrix(1.0551302,0,0,1.0551302,-0.4992835,-1.2961561)" />
+       transform="matrix(1.0551302,0,0,1.0551302,-0.4992835,-1.3612091)"
+       clip-path="url(#clipPath5447)" />
     <path
        sodipodi:nodetypes="cccccccc"
        id="path5395"
-       d="M 6.0126465,2.065053 L 6,17.844482 L 9.6032208,16.306867 L 11.408023,21.00955 L 15.16719,19.369236 L 13.166397,14.930329 L 16.782261,13.429722 L 6.0126465,2.065053 z "
+       d="M 6.0126465,2 L 6,17.779429 L 9.6032208,16.241814 L 11.408023,20.944497 L 15.16719,19.304183 L 13.166397,14.865276 L 16.782261,13.364669 L 6.0126465,2 z "
        style="fill:#d3d7cf;fill-rule:evenodd;stroke:#555753;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:#d3d7cf;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 6.0124886,2.167067 L 6,17.749454 L 9.5582265,16.231041 L 11.340492,20.875 L 15.052717,19.255169 L 13.076908,14.871691 L 16.64762,13.389823 L 6.0124886,2.167067 z "
+       d="M 6.0124886,2.102014 L 6,17.684401 L 9.5582265,16.165988 L 11.340492,20.809947 L 15.052717,19.190116 L 13.076908,14.806638 L 16.64762,13.32477 L 6.0124886,2.102014 z "
        id="path10846"
        sodipodi:nodetypes="cccccccc" />
     <path
@@ -732,7 +745,7 @@
     <path
        sodipodi:nodetypes="cccccccc"
        id="path5401"
-       d="M 6.0124886,2.167067 L 6,17.749454 L 9.5582265,16.231041 L 11.340492,20.875 L 15.052717,19.255169 L 13.076908,14.871691 L 16.64762,13.389823 L 6.0124886,2.167067 z "
+       d="M 6.0124886,2.102014 L 6,17.684401 L 9.5582265,16.165988 L 11.340492,20.809947 L 15.052717,19.190116 L 13.076908,14.806638 L 16.64762,13.32477 L 6.0124886,2.102014 z "
        style="fill:url(#radialGradient5417);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
