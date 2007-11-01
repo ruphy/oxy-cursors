@@ -11,6 +11,7 @@ for color in $colors; do
 
 echo "Generating cursors for the color: $color"
 
+mkdir -p ../cursors
 mkdir -p ../cursors/$color;
 cp ../pngs/$color/*.png ../cursors/$color/
 cp ../configs/*.in ../cursors/$color/

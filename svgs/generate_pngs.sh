@@ -10,6 +10,7 @@ for color in $colors; do
 
 echo "Generating PNGs for the color: $color"
 
+mkdir -p ../pngs
 mkdir -p ../pngs/$color;
 cp $color/*.svg ../pngs/$color/
 cd ../pngs/$color/
