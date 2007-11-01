@@ -1,0 +1,14 @@
+How to generate all the pngs and the SVGs and the cursor files:
+
+cd svgs
+./generate_WORLD.sh
+
+This is meant to be a developer tool, don't blame on me if the above doesn't work, the
+files which will be released, and meant to be used by users will (likely) be just tarballs
+containing the cursor files, ready to be installed.
+
+All of what you see here is to be considered a work in progress, and so unreleased.
+
+Write me an e-mail if you need help or additional information.
+
+Riccardo "ruphy" Iaconelli <riccardo@kde.org>
