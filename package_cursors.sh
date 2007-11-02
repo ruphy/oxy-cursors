@@ -37,5 +37,5 @@ EOF
 done
 
 cd ..
-cp temp/*.tar.bz2 .
+cp temp/*.tar .
 rm -rf temp/
