@@ -32,7 +32,7 @@ EOF
   cp ../../cursors/$color/* cursors/
 
   cd ..
-  tar -cf oxygen-cursors-$color.tar.bz2 $color
+  tar -cf oxygen-cursors-$color.tar $color
 
 done
 
