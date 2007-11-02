@@ -4,8 +4,6 @@ colors="blue yellow brown grey green violet red purple navy sea_blue emerald hot
 oldDir=$(pwd)
 SIZE="24"
 
-mkdir -p pngs
-
 for color in $colors; do
 
 echo "Generating PNGs for the color: $color"
