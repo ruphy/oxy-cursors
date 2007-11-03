@@ -18,7 +18,7 @@ cp ../configs/*.in ../cursors/$color/
 cd ../cursors/$color/
 
 for icon in $(ls *.in); do
-xcursorgen $icon $( echo $icon | sed s/.in// )
+xcursorgen $icon $( echo $icon | sed s/\.in$//g )
 # inkscape --without-gui --export-png=$( echo $icon | sed s/.svg// ).png --export-dpi=72 --export-background-opacity=0 --export-width=$SIZE --export-height=$SIZE $icon 2> /dev/null
 done
 
