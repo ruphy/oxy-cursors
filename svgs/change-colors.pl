@@ -33,7 +33,7 @@ sub convertFile($) {
         while(<IN>) {
             s/#ffffff;/$lighterColor;/g;
             s/#d3d7cf/$mediumColor/g;
-            s/#555753/$darkerColor/g;
+            s/#2e3436/$darkerColor/g;
             print OUT $_;
         }
         close IN;
