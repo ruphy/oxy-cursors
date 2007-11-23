@@ -13,12 +13,11 @@
    height="24"
    id="svg3570"
    sodipodi:version="0.32"
-   inkscape:version="0.45"
+   inkscape:version="0.45.1"
    version="1.0"
    sodipodi:docname="cross.svg"
-   sodipodi:docbase="/home/me/wip/cursors/svgs/grey"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:modified="true">
+   sodipodi:docbase="/home/me/git/oxy-cursors/svgs/white"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs3572">
     <linearGradient
@@ -178,7 +177,7 @@
      inkscape:document-units="px"
      width="24px"
      height="24px"
-     inkscape:window-width="1280"
+     inkscape:window-width="1272"
      inkscape:window-height="727"
      inkscape:window-x="0"
      inkscape:window-y="0" />
@@ -201,7 +200,7 @@
        id="g2193"
        transform="translate(-4.5791853e-3,-0.9912511)">
       <path
-         style="fill:#d3d7cf;fill-rule:evenodd;stroke:#555753;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#d3d7cf;fill-rule:evenodd;stroke:#2e3436;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 6.5022209,0.5049017 L 6.4970892,6.5022209 L 0.4970892,6.4580267 L 0.50390625,8.5039062 L 6.4960938,8.5039062 L 6.4882813,14.507812 L 8.4960937,14.53125 L 8.515625,8.5039062 L 14.507812,8.515625 L 14.535156,6.5 L 8.4960937,6.515625 L 8.5146296,0.5049017 L 6.5022209,0.5049017 z "
          transform="translate(4.5791853e-3,0.9912511)"
          id="path3600"

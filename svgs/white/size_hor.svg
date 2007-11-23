@@ -13,15 +13,14 @@
    height="24"
    id="svg10643"
    sodipodi:version="0.32"
-   inkscape:version="0.45"
-   sodipodi:docbase="/home/me/svn/oxygen-playground/ruphy/cursors/svgs/grey"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/me/git/oxy-cursors/svgs/white"
    sodipodi:docname="size_hor.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/me/svn/oxygen-playground/ruphy/arrow-shadow.png"
    inkscape:export-xdpi="67.5"
    inkscape:export-ydpi="67.5"
-   version="1.0"
-   sodipodi:modified="true">
+   version="1.0">
   <defs
      id="defs10645">
     <linearGradient
@@ -3102,14 +3101,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="21.791667"
-     inkscape:cx="12"
-     inkscape:cy="9.2353823"
+     inkscape:zoom="30.818071"
+     inkscape:cx="9.2864899"
+     inkscape:cy="10.114514"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1280"
+     inkscape:window-width="1272"
      inkscape:window-height="727"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -3228,7 +3227,7 @@
          sodipodi:nodetypes="ccccccccccccc"
          id="path4304"
          d="M 23.082367,11.629623 L 17.644577,15.615158 L 17.501977,12.953301 L 11.961437,15.439768 L 6.2537504,12.858238 L 6.1586874,15.520095 L 0.69446226,11.611962 L 6.0160877,7.4394726 L 6.301287,10.006256 L 12.008964,7.5673359 L 17.519091,10.053792 L 17.614164,7.1067368 L 23.082367,11.629623 z "
-         style="fill:#d3d7cf;fill-rule:evenodd;stroke:#555753;stroke-width:1.375;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#d3d7cf;fill-rule:evenodd;stroke:#2e3436;stroke-width:1.375;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccccccccccc"
          id="path5326"

@@ -13,15 +13,14 @@
    height="24"
    id="svg10643"
    sodipodi:version="0.32"
-   inkscape:version="0.45"
-   sodipodi:docbase="/home/me/svn/oxygen-playground/ruphy/cursors/svgs/grey"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/me/git/oxy-cursors/svgs/white"
    sodipodi:docname="size_ver.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/me/svn/oxygen-playground/ruphy/arrow-shadow.png"
    inkscape:export-xdpi="67.5"
    inkscape:export-ydpi="67.5"
-   version="1.0"
-   sodipodi:modified="true">
+   version="1.0">
   <defs
      id="defs10645">
     <linearGradient
@@ -3058,14 +3057,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="123.27228"
-     inkscape:cx="10.379976"
-     inkscape:cy="0.24540288"
+     inkscape:zoom="15.409035"
+     inkscape:cx="5.3346164"
+     inkscape:cy="10.519938"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1280"
+     inkscape:window-width="1272"
      inkscape:window-height="727"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -3184,7 +3183,7 @@
          sodipodi:nodetypes="ccccccccccccc"
          id="path4304"
          d="M 22.939949,11.629623 L 17.439327,16.383064 L 17.501977,12.953301 L 11.961437,15.439768 L 6.2537504,12.858238 L 6.3824763,16.446076 L 0.85270488,11.611962 L 6.3741499,6.744987 L 6.301287,10.006256 L 12.008964,7.665551 L 17.455794,10.315699 L 17.479891,6.5974474 L 22.939949,11.629623 z "
-         style="fill:#d3d7cf;fill-rule:evenodd;stroke:#555753;stroke-width:1.375;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#d3d7cf;fill-rule:evenodd;stroke:#2e3436;stroke-width:1.375;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccccccccccc"
          id="path5326"

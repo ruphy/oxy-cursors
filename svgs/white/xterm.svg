@@ -13,10 +13,10 @@
    height="24"
    id="svg3570"
    sodipodi:version="0.32"
-   inkscape:version="0.45"
+   inkscape:version="0.45.1"
    version="1.0"
    sodipodi:docname="xterm.svg"
-   sodipodi:docbase="/home/me/svn/oxygen-playground/ruphy/various-colors/grey"
+   sodipodi:docbase="/home/me/git/oxy-cursors/svgs/white"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs3572">
@@ -86,16 +86,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="256"
-     inkscape:cx="4.0974499"
-     inkscape:cy="8.2745633"
+     inkscape:zoom="32"
+     inkscape:cx="-1.7997062"
+     inkscape:cy="15.662318"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      width="24px"
      height="24px"
-     inkscape:window-width="1280"
+     inkscape:window-width="1272"
      inkscape:window-height="727"
      inkscape:window-x="0"
      inkscape:window-y="0" />
@@ -120,7 +120,7 @@
        d="M 0.42299231,0.68902986 L 0.42299231,2.3316522 L 3.6952251,2.3316522 L 3.6952251,14.647487 L 0.44256299,14.647487 L 0.44256299,16.357087 L 8.5742182,16.357087 L 8.5742182,14.647487 L 5.3847031,14.647487 L 5.3847031,2.3316522 L 8.5742182,2.3316522 L 8.5742182,0.68902986 L 0.42299231,0.68902986 z "
        style="fill:#d3d7cf;fill-rule:evenodd;stroke:none;stroke-width:0.61721623;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="fill:#555753;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.61721623;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.61721623;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 0.00390625,0 L 0,3 L 3.0039062,3 L 3.0039062,14 L 0.00390625,14 L 0.00390625,17.003906 L 8.9960938,17.003906 L 8.9960938,14 L 6.0039062,14 L 6.0039062,3 L 8.9960938,3 L 8.9960938,0.00390625 L 0.00390625,0 z M 0.9921875,1 L 7.9960938,0.98828125 L 8,2.0039062 L 5.375,2.03125 L 5.0625,2.03125 L 5.0625,2.34375 L 5.0625,14.65625 L 5.0625,14.96875 L 5.375,15.003906 L 8.015625,15.003906 L 8.015625,16.0625 L 0.75,16.0625 L 0.75,14.96875 L 3.6875,14.96875 L 4,14.96875 L 4,14.65625 L 4,2.34375 L 4,2.03125 L 3.6875,2.03125 L 0.9921875,2.03125 L 0.9921875,1 z "
        id="path3600"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
