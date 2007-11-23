@@ -15,7 +15,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.45.1"
    sodipodi:docbase="/home/me/git/oxy-cursors/svgs/white"
-   sodipodi:docname="left_ptr2.svg"
+   sodipodi:docname="left_ptr.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/me/svn/oxygen-playground/ruphy/arrow-shadow.png"
    inkscape:export-xdpi="67.5"
@@ -609,7 +609,7 @@
        xlink:href="#linearGradient10711"
        id="radialGradient3508"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1086176,-0.4093269,0.6608062,1.7897223,-9.2289678,-3.7486634)"
+       gradientTransform="matrix(1.1106976,-0.4036489,0.6516398,1.7930801,-9.2127514,-4.7972628)"
        spreadMethod="reflect"
        cx="8.8133469"
        cy="14.235861"
@@ -624,9 +624,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="11.663551"
-     inkscape:cy="15.415099"
+     inkscape:zoom="11.313709"
+     inkscape:cx="18.641016"
+     inkscape:cy="11.798269"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -656,24 +656,24 @@
      inkscape:groupmode="layer">
     <path
        clip-path="url(#clipPath3496)"
-       transform="matrix(1.0551302,0,0,1.0551302,-0.4992835,-1.0701574)"
+       transform="matrix(1.0551164,5.3989101e-3,-5.3989101e-3,1.0551164,-0.4968868,-2.0741232)"
        sodipodi:nodetypes="cccccccc"
        id="path3500"
        d="M 10.3366,13.200539 L 6,18.477013 L 9.9136329,18.882847 L 12.051305,21.601687 L 14.223435,20.929607 L 14.261596,16.664597 L 16.64762,14.827323 L 10.3366,13.200539 z "
        style="opacity:0.72597866;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3484)" />
     <path
        style="fill:#2e3436;fill-rule:evenodd;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 6.0126465,1.9785516 L 6,18.070481 L 9.8942742,18.399745 L 12.67671,20.736469 L 13.664588,20.479118 L 14.471696,16.622318 L 16.763956,13.749471 L 6.0126465,1.9785516 z "
+       d="M 5.9993581,1.0078665 L 6.0293717,17.162021 L 9.9628516,17.613826 L 12.871065,19.726048 L 13.819305,19.371137 L 14.498217,15.744068 L 16.998368,12.472826 L 5.9993581,1.0078665 z "
        id="path3502"
        sodipodi:nodetypes="cccccccc" />
     <path
        sodipodi:nodetypes="cccccccc"
        id="path3504"
-       d="M 6.0124886,2.0493156 L 6,17.975453 L 10.044362,18.313195 L 12.653373,20.60414 L 13.716168,20.289607 L 14.314345,16.379321 L 16.64762,13.660017 L 6.0124886,2.0493156 z "
+       d="M 5.9988381,1.0786288 L 5.904858,17.004495 L 9.9474386,17.362926 L 12.807145,19.847971 L 13.896313,19.36246 L 14.4157,15.803981 L 16.989046,12.530594 L 5.9988381,1.0786288 z "
        style="fill:#d3d7cf;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:url(#radialGradient3508);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 6.0124886,2.1430656 L 6,17.975453 L 9.9559738,18.180613 L 12.752485,20.648334 L 13.635363,20.201219 L 13.963012,15.934239 L 16.64762,13.571627 L 6.0124886,2.1430656 z "
+       d="M 5.9983584,1.1723776 L 5.904858,17.004495 L 9.9786201,17.348996 L 12.824041,19.80643 L 13.992276,19.417432 L 14.410984,15.743126 L 16.968868,12.56939 L 5.9983584,1.1723776 z "
        id="path3506"
        sodipodi:nodetypes="cccccccc" />
     <rect
@@ -681,8 +681,9 @@
        id="rect2265"
        width="1.03125"
        height="1.03125"
-       x="5"
-       y="0.96875"
-       ry="0" />
+       x="4.9917903"
+       y="-0.032646272"
+       ry="0"
+       transform="matrix(0.9999869,5.1168717e-3,-5.1168717e-3,0.9999869,0,0)" />
   </g>
 </svg>
