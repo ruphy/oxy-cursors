@@ -1,6 +1,6 @@
 #!/bin/bash
 
-colors="blue yellow brown grey green violet red purple navy sea_blue emerald hot_orange white"
+colors="blue yellow brown grey green violet red purple navy sea_blue emerald hot_orange white viorange"
 # colors="green"
 oldDir=$(pwd)
 # SIZE="24"

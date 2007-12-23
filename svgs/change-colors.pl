@@ -15,6 +15,7 @@ my %colorDescription = (
  "violet" => "#e8b7d7 #85026c #6a0056",
  "yellow" => "#fff6c8 #f3c300 #e3ad00",
 # "white" => "#ffffff #d3d7cf #555753"
+ "viorange" => "#fcaf3e #f57900 #ce5c00",
  "grey" => "#eeeeec #555753 #2e3436"
 );
 
