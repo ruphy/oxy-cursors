@@ -24,6 +24,17 @@
   <defs
      id="defs10645">
     <linearGradient
+       id="linearGradient3233">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3235" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3237" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient3866">
       <stop
          id="stop3868"
@@ -616,6 +627,15 @@
        fx="8.8133469"
        fy="14.235861"
        r="5.3238101" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3233"
+       id="linearGradient3240"
+       x1="9.4485903"
+       y1="2.761672"
+       x2="7.6776314"
+       y2="19.013866"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -625,8 +645,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="18.641016"
-     inkscape:cy="11.798269"
+     inkscape:cx="12.434713"
+     inkscape:cy="19.031766"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -676,14 +696,10 @@
        d="M 5.9983584,1.1723776 L 5.904858,17.004495 L 9.9786201,17.348996 L 12.824041,19.80643 L 13.992276,19.417432 L 14.410984,15.743126 L 16.968868,12.56939 L 5.9983584,1.1723776 z "
        id="path3506"
        sodipodi:nodetypes="cccccccc" />
-    <rect
-       style="opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
-       id="rect2265"
-       width="1.03125"
-       height="1.03125"
-       x="4.9917903"
-       y="-0.032646272"
-       ry="0"
-       transform="matrix(0.9999869,5.1168717e-3,-5.1168717e-3,0.9999869,0,0)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient3240);stroke-width:0.9866485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
+       d="M 6.5058177,2.3050344 L 6.4063808,16.709643 L 10.186979,17.102333 L 13.210156,19.227647 L 14.005651,15.604788 L 16.376695,12.600649 L 6.5058177,2.3050344 z "
+       id="path2253"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>
