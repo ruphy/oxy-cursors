@@ -13,6 +13,12 @@ echo "Generating cursors for the color: $color"
 
 mkdir -p ../cursors
 mkdir -p ../cursors/$color;
+cd ../cursors/$color/
+
+# Clean out old stuff before
+rm -rf *
+cd $oldDir
+
 cp ../pngs/$color/*.png ../cursors/$color/
 cp ../configs/*.in ../cursors/$color/
 cd ../cursors/$color/
