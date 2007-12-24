@@ -18,12 +18,12 @@ cd ../pngs/$color/
 rm *.png
 
 for icon in $(ls *.svg); do
-  if [ "$icon" != "half-busy.svg" ] && [ "$icon" != "fleur.svg" ];
- then 
-	inkscape --without-gui --export-png=$( echo $icon | sed s/.svg// ).png --export-dpi=72 --export-background-opacity=0 --export-width=$SIZE --export-height=$SIZE $icon 2> /dev/null;
-  else
-        inkscape --without-gui --export-png=$( echo $icon | sed s/.svg// ).png --export-background-opacity=0 --export-width=32 --export-height=32 $icon 2> /dev/null;
-  fi
+#  if [ "$icon" != "half-busy.svg" ] && [ "$icon" != "fleur.svg" ];
+# then 
+	inkscape --without-gui --export-png=$( echo $icon | sed s/.svg// ).png --export-dpi=90 $icon 2> /dev/null; # --export-background-opacity=0 --export-width=$SIZE --export-height=$SIZE $icon 2> /dev/null;
+#  else
+#        inkscape --without-gui --export-png=$( echo $icon | sed s/.svg// ).png --export-background-opacity=0 --export-width=32 --export-height=32 $icon 2> /dev/null;
+#  fi
 done
 
 rm *.svg
