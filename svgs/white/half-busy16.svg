@@ -15,7 +15,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.45.1"
    sodipodi:docbase="/home/me/git/oxy-cursors/svgs/white"
-   sodipodi:docname="half-busy.svg"
+   sodipodi:docname="half-busy16.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/me/svn/oxygen-playground/ruphy/arrow-shadow.png"
    inkscape:export-xdpi="67.5"
@@ -1563,7 +1563,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
      inkscape:cx="23.239501"
-     inkscape:cy="6.8723088"
+     inkscape:cy="9.3337934"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -1903,7 +1903,7 @@
        style="fill:#e3ad00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.29200006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:type="arc" />
     <g
-       transform="matrix(0.9663806,2.8407728e-8,-2.8407728e-8,0.9663806,0.4397891,0.774372)"
+       transform="matrix(0.9663806,2.8407728e-8,-2.8407728e-8,0.9663806,-1.2667561,0.4795498)"
        id="g3874">
       <path
          transform="matrix(3.013188,0.8084165,-0.8084165,3.013188,5.0352689,-38.969615)"
@@ -1938,7 +1938,7 @@
     </g>
     <g
        id="g3858"
-       transform="matrix(0.9663806,2.8407728e-8,-2.8407728e-8,0.9663806,0.4052627,-9.1987496)">
+       transform="matrix(0.9663806,2.8407728e-8,-2.8407728e-8,0.9663806,2.1118083,-8.9039278)">
       <path
          sodipodi:type="arc"
          style="fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:0.32053852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
