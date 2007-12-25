@@ -385,18 +385,6 @@
        y1="12.061514"
        x2="16.034332"
        y2="15.552854" />
-    <filter
-       inkscape:collect="always"
-       x="-0.10833137"
-       width="1.2166626"
-       y="-0.073068812"
-       height="1.1461376"
-       id="filter3306">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.98119447"
-         id="feGaussianBlur3308" />
-    </filter>
     <linearGradient
        y2="19.626715"
        x2="10.711697"
@@ -10120,12 +10108,12 @@
        xlink:href="#linearGradient10711"
        id="radialGradient6085"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1106976,-0.4036489,0.6516398,1.7930801,-9.2127514,-4.7972628)"
+       gradientTransform="matrix(1.0855112,-0.468302,0.8714415,2.2468093,-12.476222,-11.396464)"
        spreadMethod="reflect"
-       cx="8.8133469"
-       cy="14.235861"
-       fx="8.8133469"
-       fy="14.235861"
+       cx="10.857204"
+       cy="16.091434"
+       fx="10.857204"
+       fy="16.091434"
        r="5.3238101" />
     <linearGradient
        inkscape:collect="always"
@@ -10141,12 +10129,12 @@
        xlink:href="#linearGradient10711"
        id="radialGradient6089"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1106976,-0.4036489,0.6516398,1.7930801,-9.2127514,-4.7972628)"
+       gradientTransform="matrix(1.0850958,-0.4693729,0.8941553,2.3053722,-12.710178,-12.059068)"
        spreadMethod="reflect"
-       cx="8.8133469"
-       cy="14.235861"
-       fx="8.8133469"
-       fy="14.235861"
+       cx="10.839025"
+       cy="15.565709"
+       fx="10.839025"
+       fy="15.565709"
        r="5.3238101" />
     <linearGradient
        inkscape:collect="always"
@@ -10175,7 +10163,7 @@
      inkscape:window-width="1272"
      inkscape:window-height="727"
      inkscape:window-x="0"
-     inkscape:window-y="7"
+     inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
      width="24px"
