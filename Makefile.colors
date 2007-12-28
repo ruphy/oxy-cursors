@@ -73,12 +73,14 @@ svgs/$(COLOR):
 pngs/$(COLOR):
 	mkdir -p $@
 
+ifneq "$(COLOR)" "white"
 svgs/$(COLOR)/%.svg: svgs/white/%.svg svgs/$(COLOR)
 	$(SED) \
 		-e 's:#ffffff;:$(lighterColor);:g' \
 		-e 's:#d3d7cf:$(mediumColor):g' \
 		-e 's:#2e3436:$(darkerColor):g' \
 		$< > $@
+endif
 
 pngs/$(COLOR)/%.png: svgs/$(COLOR)/%.svg pngs/$(COLOR)
 	inkscape --without-gui --export-dpi=90 --export-png=$@ $<
