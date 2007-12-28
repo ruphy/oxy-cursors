@@ -1,4 +1,4 @@
-colors=blue yellow brown grey green violet red purple navy sea_blue emerald hot_orange
+colors=blue yellow brown grey green violet red purple navy sea_blue emerald hot_orange viorange black
 
 allsvgs: .depend
 	for color in $(colors); do \
