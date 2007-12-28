@@ -1,6 +1,6 @@
 colors=blue yellow brown grey green violet viorange red purple navy sea_blue emerald hot_orange white
 
-allsvgs: .depend
+tarballs: .depend
 	for color in $(colors); do \
 		$(MAKE) -f Makefile.colors COLOR=$$color || exit 1; \
 	done
