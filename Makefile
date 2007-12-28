@@ -2,7 +2,7 @@ colors=blue yellow brown grey green violet viorange red purple navy sea_blue eme
 
 allsvgs: .depend
 	for color in $(colors); do \
-		$(MAKE) -f Makefile.colors COLOR=$$color; \
+		$(MAKE) -f Makefile.colors COLOR=$$color || exit 1; \
 	done
 
 .depend: $(patsubst %.in,%.dep,$(wildcard configs/*.in))
