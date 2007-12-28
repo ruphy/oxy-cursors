@@ -1,4 +1,6 @@
+.depend
 pngs
+configs/*.dep
 cursors
 svgs/blue
 svgs/yellow
@@ -13,3 +15,4 @@ svgs/sea_blue
 svgs/emerald
 svgs/hot_orange
 svgs/viorange
+oxygen-cursors-*.tar.bz2
