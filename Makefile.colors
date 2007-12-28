@@ -1,0 +1,92 @@
+.PHONY: theme
+
+SED=sed
+
+WHITESVGS = $(wildcard svgs/white/*.svg)
+COLOREDSVGS = $(addprefix svgs/$(COLOR)/,$(notdir $(WHITESVGS)))
+
+ifeq "$(COLOR)" "blue"
+lighterColor = \#a4c0e4
+mediumColor = \#00438a
+darkerColor = \#00316e
+else ifeq "$(COLOR)" "brown"
+lighterColor = \#debc85
+mediumColor = \#57401e
+darkerColor = \#382509
+else ifeq "$(COLOR)" "emerald"
+lighterColor = \#99dcc6
+mediumColor = \#00734d
+darkerColor = \#00583f
+else ifeq "$(COLOR)" "green"
+lighterColor = \#d8e8c2
+mediumColor = \#00892c
+darkerColor = \#006e29
+else ifeq "$(COLOR)" "hot_orange"
+lighterColor = \#ffd9b0
+mediumColor = \#cf4913
+darkerColor = \#ac4311
+else ifeq "$(COLOR)" "navy"
+lighterColor = \#c3b4da
+mediumColor = \#34176e
+darkerColor = \#1d0a55
+else ifeq "$(COLOR)" "purple"
+lighterColor = \#f9cade
+mediumColor = \#bf0361
+darkerColor = \#9c0f56
+else ifeq "$(COLOR)" "red"
+lighterColor = \#f9ccca
+mediumColor = \#bf0303
+darkerColor = \#9c0f0f
+else ifeq "$(COLOR)" "sea_blue"
+lighterColor = \#a8dde0
+mediumColor = \#006066
+darkerColor = \#00484d
+else ifeq "$(COLOR)" "violet"
+lighterColor = \#e8b7d7
+mediumColor = \#85026c
+darkerColor = \#6a0056
+else ifeq "$(COLOR)" "yellow"
+lighterColor = \#fff6c8
+mediumColor = \#f3c300
+darkerColor = \#e3ad00
+else ifeq "$(COLOR)" "viorange"
+lighterColor = \#fcaf3e
+mediumColor = \#f57900
+darkerColor = \#ce5c00
+else ifeq "$(COLOR)" "grey"
+lighterColor = \#eeeeec
+mediumColor = \#555753
+darkerColor = \#2e3436
+endif
+
+oxygen-cursors-$(COLOR).tar.bz2: theme
+	tar --strip-components=1 -jcf $@ cursors/$(COLOR)
+
+theme: $(addprefix cursors/$(COLOR)/,$(notdir $(patsubst %.in,%,$(wildcard configs/*.in)))) cursors/$(COLOR)/index.theme
+
+cursors/$(COLOR):
+	mkdir -p $@
+
+svgs/$(COLOR):
+	mkdir -p $@
+
+pngs/$(COLOR):
+	mkdir -p $@
+
+svgs/$(COLOR)/%.svg: svgs/white/%.svg svgs/$(COLOR)
+	$(SED) \
+		-e 's:#ffffff;:$(lighterColor);:g' \
+		-e 's:#d3d7cf:$(mediumColor):g' \
+		-e 's:#2e3436:$(darkerColor):g' \
+		$< > $@
+
+pngs/$(COLOR)/%.png: svgs/$(COLOR)/%.svg pngs/$(COLOR)
+	inkscape --without-gui --export-dpi=90 --export-png=$@ $<
+
+cursors/$(COLOR)/%: configs/%.in cursors/$(COLOR)
+	xcursorgen -p pngs/$(COLOR) $< $@
+
+cursors/$(COLOR)/index.theme: index.theme.in
+	$(SED) -e 's:@COLOR@:$(COLOR):' $< > $@
+
+include .depend
