@@ -1,4 +1,4 @@
-.PHONY: theme
+.PHONY: theme theme-$(COLOR)
 
 SED=sed
 
@@ -62,7 +62,9 @@ endif
 oxygen-cursors-$(COLOR).tar.bz2: theme
 	tar --strip-components=1 -jcf $@ cursors/$(COLOR)
 
-theme: $(addprefix cursors/$(COLOR)/,$(notdir $(patsubst %.in,%,$(wildcard configs/*.in)))) cursors/$(COLOR)/index.theme
+theme: theme-$(COLOR)
+
+theme-$(COLOR): $(addprefix cursors/$(COLOR)/,$(notdir $(patsubst %.in,%,$(wildcard configs/*.in)))) cursors/$(COLOR)/index.theme
 
 cursors/$(COLOR):
 	mkdir -p $@
