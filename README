@@ -1,7 +1,8 @@
 How to generate all the pngs and the SVGs and the cursor files:
 
-cd svgs
-./generate_WORLD.sh
+make [-j <n>] [COLOR=<color>]
+
+Where <n> is the number of jobs to run in parallel (man make), and <color> is the color you want generated if you want just one of them.
 
 This is meant to be a developer tool, don't blame on me if the above doesn't work, the
 files which will be released, and meant to be used by users will (likely) be just tarballs

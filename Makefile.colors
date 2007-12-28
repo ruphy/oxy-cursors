@@ -57,6 +57,10 @@ else ifeq "$(COLOR)" "grey"
 lighterColor = \#eeeeec
 mediumColor = \#555753
 darkerColor = \#2e3436
+else ifeq "$(COLOR)" "black"
+lighterColor = \#999999
+mediumColor = \#000000
+darkerColor = \#000000
 endif
 
 oxygen-cursors-$(COLOR).tar.bz2: theme
