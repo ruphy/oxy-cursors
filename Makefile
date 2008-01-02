@@ -1,6 +1,6 @@
 .PHONY: themes tarballs
 
-colors=blue yellow brown grey green violet viorange red purple navy sea_blue emerald hot_orange white black
+colors=blue yellow brown grey green violet viorange red purple navy sea_blue emerald hot_orange white black red-argentina
 
 themes:
 
