@@ -17207,7 +17207,7 @@
            d="M 10.3366,13.200539 L 6,18.477013 L 9.9136329,18.882847 L 12.051305,21.601687 L 14.223435,20.929607 L 14.261596,16.664597 L 16.64762,14.827323 L 10.3366,13.200539 z "
            style="opacity:0.72597866;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3484)" />
         <path
-           style="fill:#2e3436;fill-rule:evenodd;stroke:#2e3436;stroke-width:3.73373699;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:3.73373699;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 5.9993581,1.0078665 L 6.0293717,17.162021 L 9.9628516,17.613826 L 12.871065,19.726048 L 13.819305,19.371137 L 14.498217,15.744068 L 16.998368,12.472826 L 5.9993581,1.0078665 z "
            id="path14235"
            sodipodi:nodetypes="cccccccc" />
@@ -17241,7 +17241,7 @@
            sodipodi:nodetypes="cccccccc"
            id="path14247"
            d="M 5.9993581,1.0078665 L 6.0293717,17.162021 L 9.9628516,17.613826 L 12.871065,19.726048 L 13.819305,19.371137 L 14.498217,15.744068 L 16.998368,12.472826 L 5.9993581,1.0078665 z "
-           style="fill:#2e3436;fill-rule:evenodd;stroke:#2e3436;stroke-width:3.73373699;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:3.73373699;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            style="fill:#d3d7cf;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 5.9988381,1.0786288 L 5.904858,17.004495 L 9.9474386,17.362926 L 12.807145,19.847971 L 13.896313,19.36246 L 14.4157,15.803981 L 16.989046,12.530594 L 5.9988381,1.0786288 z "
@@ -17266,7 +17266,7 @@
          height="14.929255"
          width="2.0133839"
          id="rect3125"
-         style="fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
