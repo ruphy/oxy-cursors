@@ -3,6 +3,7 @@
 pngs
 configs/*.dep
 cursors
+svgs/black
 svgs/blue
 svgs/yellow
 svgs/brown
