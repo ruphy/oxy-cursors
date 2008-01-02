@@ -88,7 +88,7 @@ svgs/$(COLOR)/%.svg: svgs/white/%.svg svgs/$(COLOR)
 	$(SED) \
 		-e 's:#ffffff;:$(lighterColor);:g' \
 		-e 's:#d3d7cf:$(mediumColor):g' \
-		-e 's:#2e3436:$(darkerColor):g' \
+		-e 's:#000100:$(darkerColor):g' \
 		$< > $@
 endif
 
