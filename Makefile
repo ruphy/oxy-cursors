@@ -19,7 +19,7 @@ tarballs:
 .depend: $(patsubst %.in,%.dep,$(wildcard configs/*.in))
 	cat $^ > $@
 
-configs/%.dep: configs/%.in
-	echo "cursors/\$$(COLOR)/$(notdir $(patsubst %.in,%,$<)): \$$(addprefix pngs/\$$(COLOR)/,$$(cut -d ' ' -f 4 $< | xargs echo))" > $@
+configs/%.dep: configs/%.in Makefile
+	echo "cursors/oxy-\$$(COLOR)/cursors/$(notdir $(patsubst %.in,%,$<)): \$$(addprefix pngs/\$$(COLOR)/,$$(cut -d ' ' -f 4 $< | xargs echo))" > $@
 
 include .colorrules
