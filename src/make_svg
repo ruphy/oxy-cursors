@@ -1,0 +1,7 @@
+:
+
+. $1
+sed -e "s,#ffffff;,$lighterColor;,g" \
+    -e "s,#d3d7cf;,$mediumColor;,g" \
+    -e "s,#000100;,$darkerColor;,g" \
+< $2 > $3
