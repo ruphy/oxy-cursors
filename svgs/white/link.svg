@@ -13,14 +13,15 @@
    height="24"
    id="svg10643"
    sodipodi:version="0.32"
-   inkscape:version="0.45.1"
-   sodipodi:docbase="/home/me/git/oxy-cursors/svgs/white"
+   inkscape:version="0.45"
+   sodipodi:docbase="/usr/local/kde/home/foo/oxy-cursors/src/svg"
    sodipodi:docname="link.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/me/svn/oxygen-playground/ruphy/arrow-shadow.png"
    inkscape:export-xdpi="67.5"
    inkscape:export-ydpi="67.5"
-   version="1.0">
+   version="1.0"
+   sodipodi:modified="true">
   <defs
      id="defs10645">
     <linearGradient
@@ -919,22 +920,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="52.75"
-     inkscape:cx="14.527695"
-     inkscape:cy="6.2996259"
+     inkscape:zoom="21.75"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="794"
      inkscape:window-height="734"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="2332"
+     inkscape:window-y="396"
      showguides="false"
      inkscape:guide-bbox="true"
      width="24px"
      height="24px"
-     showborder="false" />
+     showborder="true" />
   <metadata
      id="metadata10648">
     <rdf:RDF>
@@ -1003,7 +1004,7 @@
        sodipodi:nodetypes="cccsccc" />
     <path
        sodipodi:type="arc"
-       style="opacity:0.84158416;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.84158416;fill:#fffffe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3396"
        sodipodi:cx="19.943129"
        sodipodi:cy="14.028436"
@@ -1019,7 +1020,7 @@
        sodipodi:cy="14.028436"
        sodipodi:cx="19.943129"
        id="path3406"
-       style="opacity:0.84158415;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.84158415;fill:#fffffe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:type="arc" />
     <path
        sodipodi:type="arc"
