@@ -1,7 +1,14 @@
 :
+# kate: hl bash;
 
 . $1
+[ -z "$altLighterColor" ] && altLighterColor=$lighterColor
+[ -z "$altMediumColor" ] && altMediumColor=$mediumColor
+[ -z "$altDarkerColor" ] && altDarkerColor=$darkerColor
 sed -e "s,#ffffff;,$lighterColor;,g" \
     -e "s,#d3d7cf;,$mediumColor;,g" \
     -e "s,#000100;,$darkerColor;,g" \
+    -e "s,#fdfdfd;,$altLighterColor;,g" \
+    -e "s,#d2d7cf;,$altMediumColor;,g" \
+    -e "s,#000001;,$altDarkerColor;,g" \
 < $2 > $3
