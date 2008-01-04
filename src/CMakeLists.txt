@@ -3,25 +3,26 @@ include(config.cmake)
 include(setup.cmake)
 
 set(COLORS
+    black
     blue
-    yellow
     brown
-    grey
+    emerald
     green
+    grey
+    hot_orange
+    navy
+    purple
+    red
+    red-argentina
+    sea_blue
     violet
     viorange
-    red
-    purple
-    navy
-    sea_blue
-    emerald
-    hot_orange
     white
-    black
-    red-argentina
+    yellow
    )
 
 foreach(color ${COLORS})
     add_subdirectory(theme-${color})
     message(STATUS "Added themes for ${color}")
 endforeach(color)
+add_custom_target(packages ${PACKAGES})

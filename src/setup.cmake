@@ -1,3 +1,6 @@
+find_program(TAR tar)
+# TODO abort if tar not found (or does not understand cjf?)
+
 find_program(INKSCAPE inkscape)
 # TODO abort if inkscape not found
 
