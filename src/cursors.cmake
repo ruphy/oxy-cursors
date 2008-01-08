@@ -52,7 +52,4 @@ macro(add_theme color theme dpi)
                        WORKING_DIRECTORY ${CMAKE_BINARY_DIR}
                       )
     add_custom_target(package-${theme} DEPENDS ${CMAKE_BINARY_DIR}/oxy-${theme}.tar.bz2)
-    list(APPEND PACKAGES package-${theme})
 endmacro(add_theme)
-
-set(PACKAGES)
