@@ -25,51 +25,15 @@
   <defs
      id="defs10645">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3312">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#fdfdfd;stop-opacity:1;"
          offset="0"
          id="stop3314" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#fdfdfd;stop-opacity:0;"
          offset="1"
          id="stop3316" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient10925">
-      <stop
-         style="stop-color:#bf0303;stop-opacity:0;"
-         offset="0"
-         id="stop10927" />
-      <stop
-         id="stop10978"
-         offset="0.39309064"
-         style="stop-color:#bf0303;stop-opacity:0;" />
-      <stop
-         id="stop10935"
-         offset="0.46538317"
-         style="stop-color:#bf0303;stop-opacity:0.49803922;" />
-      <stop
-         style="stop-color:#bf0303;stop-opacity:1;"
-         offset="0.5"
-         id="stop10976" />
-      <stop
-         id="stop10933"
-         offset="0.5"
-         style="stop-color:#bf0303;stop-opacity:1;" />
-      <stop
-         style="stop-color:#bf0303;stop-opacity:0.49803922;"
-         offset="0.55339807"
-         id="stop10937" />
-      <stop
-         id="stop10980"
-         offset="0.60542935"
-         style="stop-color:#bf0303;stop-opacity:0;" />
-      <stop
-         style="stop-color:#bf0303;stop-opacity:0;"
-         offset="1"
-         id="stop10929" />
     </linearGradient>
     <linearGradient
        id="linearGradient10711">
@@ -82,17 +46,6 @@
          offset="1"
          id="stop10715" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10925"
-       id="radialGradient11030"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.7002217,0.5715519,-0.4374946,2.0668853,-4.8632848,-26.818351)"
-       cx="8.2921495"
-       cy="23.935163"
-       fx="8.2488832"
-       fy="19.781427"
-       r="8.7188435" />
     <radialGradient
        r="5.3238101"
        fy="14.235861"
@@ -141,11 +94,11 @@
     <linearGradient
        id="linearGradient2730">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#fdfdfd;stop-opacity:1;"
          offset="0"
          id="stop2732" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#fdfdfd;stop-opacity:0;"
          offset="1"
          id="stop2734" />
     </linearGradient>
@@ -220,7 +173,7 @@
      inkscape:window-width="860"
      inkscape:window-height="727"
      inkscape:window-x="2332"
-     inkscape:window-y="0"
+     inkscape:window-y="403"
      showguides="true"
      inkscape:guide-bbox="true"
      width="32px"
@@ -273,45 +226,11 @@
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:url(#linearGradient3240);stroke-width:0.9866485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(0.9663806,2.8407728e-8,-2.8407728e-8,0.9663806,-4.4852794,-3.3292814)"
-       id="g3874">
-      <path
-         transform="matrix(3.013188,0.8084165,-0.8084165,3.013188,5.0352689,-38.969615)"
-         d="M 12 19.03125 A 1.15625 1.15625 0 1 1  9.6875,19.03125 A 1.15625 1.15625 0 1 1  12 19.03125 z"
-         sodipodi:ry="1.15625"
-         sodipodi:rx="1.15625"
-         sodipodi:cy="19.03125"
-         sodipodi:cx="10.84375"
-         id="path3876"
-         style="fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#000100;stroke-width:0.32053852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         sodipodi:type="arc" />
-      <path
-         sodipodi:type="arc"
-         style="fill:url(#radialGradient3932);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.29200006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path3878"
-         sodipodi:cx="10.84375"
-         sodipodi:cy="19.03125"
-         sodipodi:rx="1.15625"
-         sodipodi:ry="1.15625"
-         d="M 12 19.03125 A 1.15625 1.15625 0 1 1  9.6875,19.03125 A 1.15625 1.15625 0 1 1  12 19.03125 z"
-         transform="matrix(2.5669037,0.6886818,-0.6886818,2.5669037,7.5959602,-29.177894)" />
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.51999996;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient3934);stroke-width:0.58343369;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path3880"
-         sodipodi:cx="10.84375"
-         sodipodi:cy="19.03125"
-         sodipodi:rx="1.15625"
-         sodipodi:ry="1.15625"
-         d="M 12 19.03125 A 1.15625 1.15625 0 1 1  9.6875,19.03125 A 1.15625 1.15625 0 1 1  12 19.03125 z"
-         transform="matrix(2.0582063,0.5051579,-0.5051579,2.0582063,9.6103861,-17.506827)" />
-    </g>
-    <g
        id="g3858"
        transform="matrix(0.9663806,2.8407728e-8,-2.8407728e-8,0.9663806,5.3303328,-5.0950978)">
       <path
          sodipodi:type="arc"
-         style="fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#000100;stroke-width:0.32053852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#d2d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#000001;stroke-width:0.32053852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path4051"
          sodipodi:cx="10.84375"
          sodipodi:cy="19.03125"
@@ -340,5 +259,13 @@
          style="opacity:0.51999996;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient3930);stroke-width:0.58343369;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:type="arc" />
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3858"
+       id="use80679"
+       transform="translate(-9.8153076,1.7653457)"
+       width="32"
+       height="32" />
   </g>
 </svg>
