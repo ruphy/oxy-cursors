@@ -21,11 +21,9 @@ set(COLORS
     yellow
    )
 
-set(PACKAGES)
 foreach(color ${COLORS})
     add_subdirectory(theme-${color})
     list(APPEND PACKAGES package-${color})
     list(APPEND PACKAGES package-${color}-big)
     message(STATUS "Added themes for ${color}")
 endforeach(color)
-add_custom_target(packages DEPENDS ${PACKAGES})

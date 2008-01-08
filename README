@@ -3,7 +3,7 @@ How to generate all the pngs and the SVGs and the cursor files:
 mkdir build
 cd build
 cmake ../src
-make [-j <n>] [theme-<color>|oxygen-cursors-<color>.tar.bz2]
+make [-j <n>] [theme-<color>|package-<color>]
 
 Where <n> is the number of jobs to run in parallel (man make), and <color> is the color you want generated if you want just one of them.
 
