@@ -42,11 +42,15 @@ macro(add_theme color theme dpi)
         list(APPEND ${theme}_cursors ${CMAKE_BINARY_DIR}/oxy-${theme}/cursors/${cursor})
     endforeach(cursor)
     add_custom_target(theme-${theme} ALL DEPENDS ${${theme}_cursors})
-    configure_file(${CMAKE_CURRENT_SOURCE_DIR}/index.theme
-                   ${CMAKE_BINARY_DIR}/oxy-${theme}/index.theme COPYONLY)
-    add_custom_command(OUTPUT ${CMAKE_BINARY_DIR}/oxy-${theme}.tar.bz2
+    add_custom_command(OUTPUT ${CMAKE_BINARY_DIR}/oxy-${theme}/index.theme
+                       DEPENDS ${CMAKE_CURRENT_SOURCE_DIR}/index.theme
+                       COMMAND ${CMAKE_COMMAND} -E copy_if_different
+                                                   ${CMAKE_CURRENT_SOURCE_DIR}/index.theme
+                                                   ${CMAKE_BINARY_DIR}/oxy-${theme}/index.theme
+                      )
+    add_custom_command(OUTPUT ${CMAKE_BINARY_DIR}/oxy-${theme}/oxy-${theme}.tar.bz2
                        DEPENDS ${${theme}_cursors} ${CMAKE_BINARY_DIR}/oxy-${theme}/index.theme
-                       COMMAND ${TAR} cjf ${CMAKE_BINARY_DIR}/oxy-${theme}.tar.bz2
+                       COMMAND ${TAR} cjf ${CMAKE_BINARY_DIR}/oxy-${theme}/oxy-${theme}.tar.bz2
                                       oxy-${theme}/cursors
                                       oxy-${theme}/index.theme
                        WORKING_DIRECTORY ${CMAKE_BINARY_DIR}
