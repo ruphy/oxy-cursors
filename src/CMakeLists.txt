@@ -37,6 +37,7 @@ set(COLORS
     whitewater
     wonton
     yellow
+    zion
    )
 
 foreach(color ${COLORS})
