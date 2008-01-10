@@ -27,6 +27,7 @@ macro(add_x_cursor theme cursor)
                       )
 endmacro(add_x_cursor)
 
+file(MAKE_DIRECTORY ${CMAKE_BINARY_DIR}/packages)
 macro(add_theme color theme dpi)
     file(MAKE_DIRECTORY ${CMAKE_BINARY_DIR}/oxy-${theme}/png)
     file(MAKE_DIRECTORY ${CMAKE_BINARY_DIR}/oxy-${theme}/svg)
@@ -48,12 +49,12 @@ macro(add_theme color theme dpi)
                                                    ${CMAKE_CURRENT_SOURCE_DIR}/index.theme
                                                    ${CMAKE_BINARY_DIR}/oxy-${theme}/index.theme
                       )
-    add_custom_command(OUTPUT ${CMAKE_BINARY_DIR}/oxy-${theme}/oxy-${theme}.tar.bz2
+    add_custom_command(OUTPUT ${CMAKE_BINARY_DIR}/packages/oxy-${theme}.tar.bz2
                        DEPENDS ${${theme}_cursors} ${CMAKE_BINARY_DIR}/oxy-${theme}/index.theme
-                       COMMAND ${TAR} cjf ${CMAKE_BINARY_DIR}/oxy-${theme}/oxy-${theme}.tar.bz2
+                       COMMAND ${TAR} cjf ${CMAKE_BINARY_DIR}/packages/oxy-${theme}.tar.bz2
                                       oxy-${theme}/cursors
                                       oxy-${theme}/index.theme
                        WORKING_DIRECTORY ${CMAKE_BINARY_DIR}
                       )
-    add_custom_target(package-${theme} DEPENDS ${CMAKE_BINARY_DIR}/oxy-${theme}.tar.bz2)
+    add_custom_target(package-${theme} DEPENDS ${CMAKE_BINARY_DIR}/packages/oxy-${theme}.tar.bz2)
 endmacro(add_theme)
