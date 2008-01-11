@@ -13,15 +13,14 @@
    height="24"
    id="svg10643"
    sodipodi:version="0.32"
-   inkscape:version="0.45"
-   sodipodi:docbase="/usr/local/kde/home/foo/oxy-cursors/src/svg"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/me/git/oxy-cursors/src/svg"
    sodipodi:docname="left_ptr.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/me/svn/oxygen-playground/ruphy/arrow-shadow.png"
    inkscape:export-xdpi="67.5"
    inkscape:export-ydpi="67.5"
-   version="1.0"
-   sodipodi:modified="true">
+   version="1.0">
   <defs
      id="defs10645">
     <linearGradient
@@ -85,7 +84,7 @@
        id="radialGradient3253"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.1297612,-0.3467295,0.6267361,2.042117,-9.0262396,-8.8441681)"
-       spreadMethod="reflect"
+       spreadMethod="pad"
        cx="8.8133469"
        cy="14.235861"
        fx="8.8133469"
@@ -106,9 +105,9 @@
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="788"
-     inkscape:window-height="742"
-     inkscape:window-x="2404"
+     inkscape:window-width="806"
+     inkscape:window-height="716"
+     inkscape:window-x="466"
      inkscape:window-y="0"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -147,7 +146,7 @@
        d="M 5.9988381,1.0786288 L 5.904858,17.004495 L 9.9474386,17.362926 L 12.807145,19.847971 L 13.896313,19.36246 L 14.4157,15.803981 L 16.989046,12.530594 L 5.9988381,1.0786288 z "
        style="fill:#d3d7cf;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="fill:url(#radialGradient3253);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#radialGradient3253);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 5.9983584,1.1723776 L 5.904858,17.004495 L 9.9786201,17.348996 L 12.824041,19.80643 L 13.903888,19.284849 L 14.410984,15.743126 L 16.968868,12.56939 L 5.9983584,1.1723776 z "
        id="path3506"
        sodipodi:nodetypes="cccccccc" />

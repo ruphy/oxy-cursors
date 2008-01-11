@@ -12,12 +12,11 @@
    height="24"
    id="svg3570"
    sodipodi:version="0.32"
-   inkscape:version="0.45"
+   inkscape:version="0.45.1"
    version="1.0"
    sodipodi:docname="xterm.svg"
-   sodipodi:docbase="/usr/local/kde/home/foo/oxy-cursors/src/svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:modified="true">
+   sodipodi:docbase="/home/me/git/oxy-cursors/src/svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs3572">
     <filter
@@ -64,19 +63,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="21.458333"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:zoom="42.916666"
+     inkscape:cx="8.0075283"
+     inkscape:cy="9.5421292"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      width="24px"
      height="24px"
-     inkscape:window-width="826"
-     inkscape:window-height="727"
-     inkscape:window-x="2332"
-     inkscape:window-y="295" />
+     inkscape:window-width="1280"
+     inkscape:window-height="686"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
   <metadata
      id="metadata3575">
     <rdf:RDF>
@@ -108,14 +107,14 @@
        id="path3280"
        sodipodi:nodetypes="ccccccccc" />
     <path
-       sodipodi:nodetypes="ccccccccc"
-       id="path3254"
-       d="M 3.5,2.5625 L 3.5,3.0625 L 3.5,16 L 3.5,16.5 L 5.53125,16.5 L 5.53125,16 L 5.53125,3.0625 L 5.53125,2.5625 L 3.5,2.5625 z "
-       style="opacity:0.5;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000100;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
        style="fill:#eeeeec;fill-rule:evenodd;stroke:#eeeeec;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 4.5,3.5 L 4.5,15.449993"
        id="path2170"
        sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       id="path3254"
+       d="M 3.5,3.2615291 L 3.5,3.7615291 L 3.5,15.254369 L 3.5,15.754369 C 3.984937,16.851864 5.0540935,16.784942 5.53125,15.754369 L 5.53125,15.254369 L 5.53125,3.7615291 L 5.53125,3.2615291 C 5.1477948,2.2383835 3.8980457,2.209254 3.5,3.2615291 z "
+       style="opacity:0.5;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000100;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
