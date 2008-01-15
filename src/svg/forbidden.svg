@@ -74,11 +74,11 @@
     <linearGradient
        id="linearGradient10711">
       <stop
-         style="stop-color:#fffefe;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
          id="stop10713" />
       <stop
-         style="stop-color:#fffefe;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop10715" />
     </linearGradient>
@@ -96,11 +96,11 @@
       <stop
          id="stop3235"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#ff80ff;stop-opacity:1;" />
       <stop
          id="stop3467"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0;" />
+         style="stop-color:#ff80ff;stop-opacity:0;" />
     </linearGradient>
     <filter
        id="filter4068"
@@ -392,9 +392,9 @@
          sodipodi:nodetypes="cccccccc"
          id="path3657"
          d="M 1.0009901,1 L 1.0310037,17.154155 L 4.9644836,17.60596 L 7.872697,19.718182 L 8.820937,19.363271 L 9.499849,15.736201 L 12,12.464959 L 1.0009901,1 z "
-         style="fill:#000100;fill-rule:evenodd;stroke:#000100;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#201020;fill-rule:evenodd;stroke:#201020;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         style="fill:#d3d7cf;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#804080;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 1.0004701,1.0707623 L 0.90649,16.996628 L 4.9490706,17.35506 L 7.808777,19.840105 L 8.897945,19.354594 L 9.417332,15.796114 L 11.990678,12.522728 L 1.0004701,1.0707623 z "
          id="path3659"
          sodipodi:nodetypes="cccccccc" />

@@ -115,7 +115,7 @@
       <stop
          id="stop3209"
          offset="0"
-         style="stop-color:#fffefe;stop-opacity:1;" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
          id="stop3211"
          offset="1"
@@ -156,11 +156,11 @@
       <stop
          id="stop3501"
          offset="0"
-         style="stop-color:#fffefe;stop-opacity:1;" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
          id="stop3503"
          offset="1"
-         style="stop-color:#fffefe;stop-opacity:0;" />
+         style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3489"
@@ -354,16 +354,16 @@
        transform="translate(422.56918,-130.92769)" />
     <path
        sodipodi:nodetypes="ccc"
-       style="fill:#ffffff;fill-opacity:0.75688076;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"
+       style="fill:#ff80ff;fill-opacity:0.75688076;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"
        id="path8227"
        d="M -51.75885,102.13901 L -51.75885,99.3443 L -51.75885,102.13901 z " />
     <path
-       style="fill:#ffffff;fill-opacity:0.75688076;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"
+       style="fill:#ff80ff;fill-opacity:0.75688076;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"
        d="M 423.00419,-61.674732 L 423.00419,-64.469441 L 423.00419,-61.674732 z "
        id="path2276"
        sodipodi:nodetypes="ccc" />
     <path
-       style="fill:#ffffff;fill-opacity:0.75688076;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"
+       style="fill:#ff80ff;fill-opacity:0.75688076;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"
        d="M 457.37974,-8.281052 L 457.37974,-9.807788 L 457.37974,-8.281052 z "
        id="path1561"
        sodipodi:nodetypes="ccc" />

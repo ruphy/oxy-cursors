@@ -84,22 +84,22 @@
     <linearGradient
        id="linearGradient3233">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ff80ff;stop-opacity:1;"
          offset="0"
          id="stop3235" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ff80ff;stop-opacity:0;"
          offset="1"
          id="stop3237" />
     </linearGradient>
     <linearGradient
        id="linearGradient10711">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ff80ff;stop-opacity:1;"
          offset="0"
          id="stop10713" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ff80ff;stop-opacity:0;"
          offset="1"
          id="stop10715" />
     </linearGradient>
@@ -244,7 +244,7 @@
        d="M 10.3366,13.200539 L 6,18.477013 L 9.9136329,18.882847 L 12.051305,21.601687 L 14.223435,20.929607 L 14.261596,16.664597 L 16.64762,14.827323 L 10.3366,13.200539 z "
        style="opacity:0.72597866;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3484)" />
     <path
-       style="fill:#000100;fill-rule:evenodd;stroke:#000100;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#201020;fill-rule:evenodd;stroke:#201020;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 0.9993581,1.0078665 L 1.0293717,17.162021 L 4.9628516,17.613826 L 7.871065,19.726048 L 8.819305,19.371137 L 9.498217,15.744068 L 11.998368,12.472826 L 0.9993581,1.0078665 z "
        id="path3502"
        sodipodi:nodetypes="cccccccc" />
@@ -252,7 +252,7 @@
        sodipodi:nodetypes="cccccccc"
        id="path3504"
        d="M 0.9988381,1.0786288 L 0.904858,17.004495 L 4.9474386,17.362926 L 7.807145,19.847971 L 8.896313,19.36246 L 9.4157,15.803981 L 11.989046,12.530594 L 0.9988381,1.0786288 z "
-       style="fill:#d3d7cf;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#804080;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:url(#radialGradient3508);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 0.9983584,1.1723776 L 0.904858,17.004495 L 4.9786201,17.348996 L 7.824041,19.80643 L 8.992276,19.417432 L 9.410984,15.743126 L 11.968868,12.56939 L 0.9983584,1.1723776 z "
@@ -289,7 +289,7 @@
        sodipodi:nodetypes="cccsccc" />
     <path
        sodipodi:type="arc"
-       style="opacity:0.84158416;fill:#fffffe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.84158416;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3396"
        sodipodi:cx="19.943129"
        sodipodi:cy="14.028436"
@@ -305,7 +305,7 @@
        sodipodi:cy="14.028436"
        sodipodi:cx="19.943129"
        id="path3406"
-       style="opacity:0.84158415;fill:#fffffe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.84158415;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:type="arc" />
     <path
        sodipodi:type="arc"

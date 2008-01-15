@@ -136,11 +136,11 @@
        inkscape:collect="always"
        id="linearGradient3350">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ff80ff;stop-opacity:1;"
          offset="0"
          id="stop3352" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ff80ff;stop-opacity:0;"
          offset="1"
          id="stop3354" />
     </linearGradient>
@@ -160,11 +160,11 @@
        inkscape:collect="always"
        id="linearGradient3316">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ff80ff;stop-opacity:1;"
          offset="0"
          id="stop3318" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ff80ff;stop-opacity:0;"
          offset="1"
          id="stop3320" />
     </linearGradient>
@@ -230,22 +230,22 @@
     <linearGradient
        id="linearGradient3212">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ff80ff;stop-opacity:1;"
          offset="0"
          id="stop3214" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ff80ff;stop-opacity:0;"
          offset="1"
          id="stop3216" />
     </linearGradient>
     <linearGradient
        id="linearGradient3202">
       <stop
-         style="stop-color:#fffffe;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
          id="stop3204" />
       <stop
-         style="stop-color:#fffffe;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop3206" />
     </linearGradient>

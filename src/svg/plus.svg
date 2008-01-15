@@ -24,11 +24,11 @@
     <linearGradient
        id="linearGradient3604">
       <stop
-         style="stop-color:#fefffe;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
          id="stop3606" />
       <stop
-         style="stop-color:#fefffe;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop3608" />
     </linearGradient>
@@ -110,20 +110,20 @@
       <stop
          id="stop3262"
          offset="0"
-         style="stop-color:#fefffe;stop-opacity:1;" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
          id="stop3264"
          offset="1"
-         style="stop-color:#fefffe;stop-opacity:0;" />
+         style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3225">
       <stop
-         style="stop-color:#fefffe;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
          id="stop3227" />
       <stop
-         style="stop-color:#fefffe;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop3229" />
     </linearGradient>
@@ -288,7 +288,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <rect
-       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000100;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#201020;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4080"
        width="20.025162"
        height="19.967068"
