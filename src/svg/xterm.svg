@@ -64,9 +64,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="27.930718"
-     inkscape:cx="10.690608"
-     inkscape:cy="14.476328"
+     inkscape:zoom="19.75"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -76,7 +76,7 @@
      inkscape:window-width="826"
      inkscape:window-height="686"
      inkscape:window-x="2366"
-     inkscape:window-y="0" />
+     inkscape:window-y="444" />
   <metadata
      id="metadata3575">
     <rdf:RDF>
@@ -107,13 +107,8 @@
        d="M 3.5,2.5625 L 3.5,3.0625 L 3.5,16 L 3.5,16.5 L 5.53125,16.5 L 5.53125,16 L 5.53125,3.0625 L 5.53125,2.5625 L 3.5,2.5625 z "
        id="path3280"
        sodipodi:nodetypes="ccccccccc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#eeeeec;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-       d="M 4.5,3.5 L 4.5,15.449993"
-       id="path2170"
-       sodipodi:nodetypes="cc" />
     <rect
-       style="opacity:0.5;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#201020;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:1;color:#000000;fill:#ff80ff;fill-opacity:1;fill-rule:evenodd;stroke:#201020;stroke-width:0.9;stroke-linecap:square;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3149"
        width="2"
        height="13.95"
