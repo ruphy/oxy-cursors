@@ -24,11 +24,11 @@
     <linearGradient
        id="linearGradient3480">
       <stop
-         style="stop-color:#201020;stop-opacity:0.87843138;"
+         style="stop-color:#ff80ff;stop-opacity:0;"
          offset="0"
          id="stop3482" />
       <stop
-         style="stop-color:#201020;stop-opacity:0;"
+         style="stop-color:#ff80ff;stop-opacity:1;"
          offset="1"
          id="stop3484" />
     </linearGradient>
@@ -39,7 +39,7 @@
          offset="0"
          id="stop3170" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ff80ff;stop-opacity:0;"
          offset="1"
          id="stop3172" />
     </linearGradient>
@@ -95,6 +95,15 @@
        x2="16.390833"
        y2="-3.983326"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3480"
+       id="linearGradient3160"
+       gradientUnits="userSpaceOnUse"
+       x1="17.317408"
+       y1="-4.0376177"
+       x2="14.977475"
+       y2="-4.0376177" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -117,8 +126,8 @@
      gridempspacing="4"
      inkscape:window-width="794"
      inkscape:window-height="734"
-     inkscape:window-x="2328"
-     inkscape:window-y="296" />
+     inkscape:window-x="2398"
+     inkscape:window-y="396" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -160,7 +169,7 @@
        height="18"
        width="3"
        id="rect3478"
-       style="opacity:0.42574257;fill:url(#linearGradient3486);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.42574257;fill:url(#linearGradient3160);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="opacity:1;fill:url(#radialGradient3174);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 18.8125 3.09375 L 6.09375 15.8125 L 2.90625 21.125 L 8.21875 17.9375 L 20.9375 5.1875 L 18.8125 3.09375 z "
