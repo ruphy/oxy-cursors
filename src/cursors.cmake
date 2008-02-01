@@ -20,7 +20,7 @@ macro(add_x_cursor theme cursor)
     endforeach(png)
     # TODO rewrite input for dpi
     add_custom_command(OUTPUT ${CMAKE_BINARY_DIR}/oxy-${theme}/cursors/${cursor}
-                       DEPENDS ${inputs}
+                       DEPENDS ${inputs} ${CONFIGDIR}/${cursor}.in
                        COMMAND ${XCURSORGEN} -p ${CMAKE_BINARY_DIR}/oxy-${theme}/png
                                              ${CONFIGDIR}/${cursor}.in
                                              ${CMAKE_BINARY_DIR}/oxy-${theme}/cursors/${cursor}
