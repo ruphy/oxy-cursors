@@ -1,6 +1,6 @@
 macro(add_cursor cursor color theme dpi)
     add_custom_command(OUTPUT ${CMAKE_BINARY_DIR}/oxy-${theme}/svg/${cursor}.svg
-                       DEPENDS ${MAKE_SVG_SCRIPT} ${CMAKE_CURRENT_SOURCE_DIR}/colors.in ${SVGDIR}/${cursor}.svg
+                       DEPENDS ${MAKE_SVG} ${CMAKE_CURRENT_SOURCE_DIR}/colors.in ${SVGDIR}/${cursor}.svg
                        COMMAND ${MAKE_SVG} ${CMAKE_CURRENT_SOURCE_DIR}/colors.in
                                            ${SVGDIR}/${cursor}.svg
                                            ${CMAKE_BINARY_DIR}/oxy-${theme}/svg/${cursor}.svg
@@ -19,10 +19,11 @@ macro(add_x_cursor theme cursor dpi)
         list(APPEND inputs ${CMAKE_BINARY_DIR}/oxy-${theme}/png/${png})
     endforeach(png)
     add_custom_command(OUTPUT ${CMAKE_BINARY_DIR}/oxy-${theme}/config/${cursor}.in
-                       DEPENDS ${MAKE_CONFIG_SCRIPT} ${CONFIGDIR}/${cursor}.in
-                       COMMAND ${MAKE_CONFIG} ${CONFIGDIR}/${cursor}.in
-                                              ${CMAKE_BINARY_DIR}/oxy-${theme}/config/${cursor}.in
-                                              ${dpi}
+                       DEPENDS ${MAKE_CONFIG} ${CONFIGDIR}/${cursor}.in
+                       COMMAND ${CMAKE_COMMAND} -Dconfig=${CONFIGDIR}/${cursor}.in
+                                                -Doutput=${CMAKE_BINARY_DIR}/oxy-${theme}/config/${cursor}.in
+                                                -Ddpi=${dpi}
+                                                -P ${MAKE_CONFIG}
                       )
     add_custom_command(OUTPUT ${CMAKE_BINARY_DIR}/oxy-${theme}/cursors/${cursor}
                        DEPENDS ${inputs} ${CMAKE_BINARY_DIR}/oxy-${theme}/config/${cursor}.in
