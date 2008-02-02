@@ -1,9 +1,10 @@
 macro(add_cursor cursor color theme dpi)
     add_custom_command(OUTPUT ${CMAKE_BINARY_DIR}/oxy-${theme}/svg/${cursor}.svg
                        DEPENDS ${MAKE_SVG} ${CMAKE_CURRENT_SOURCE_DIR}/colors.in ${SVGDIR}/${cursor}.svg
-                       COMMAND ${MAKE_SVG} ${CMAKE_CURRENT_SOURCE_DIR}/colors.in
-                                           ${SVGDIR}/${cursor}.svg
-                                           ${CMAKE_BINARY_DIR}/oxy-${theme}/svg/${cursor}.svg
+                       COMMAND ${CMAKE_COMMAND} -Dconfig=${CMAKE_CURRENT_SOURCE_DIR}/colors.in
+                                                -Dinput=${SVGDIR}/${cursor}.svg
+                                                -Doutput=${CMAKE_BINARY_DIR}/oxy-${theme}/svg/${cursor}.svg
+                                                -P ${MAKE_SVG}
                       )
     add_custom_command(OUTPUT ${CMAKE_BINARY_DIR}/oxy-${theme}/png/${cursor}.png
                        DEPENDS ${CMAKE_BINARY_DIR}/oxy-${theme}/svg/${cursor}.svg

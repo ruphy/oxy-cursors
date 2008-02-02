@@ -1,6 +1,6 @@
-lighterColor='#F4E6CF'
-mediumColor='#EACDA0'
-darkerColor='#E1646D'
-altLighterColor='#DAE8C4'
-altMediumColor='#75B150'
-altDarkerColor='#5D6E4B'
+set(lighterColor "#F4E6CF")
+set(mediumColor "#EACDA0")
+set(darkerColor "#E1646D")
+set(altLighterColor "#DAE8C4")
+set(altMediumColor "#75B150")
+set(altDarkerColor "#5D6E4B")
