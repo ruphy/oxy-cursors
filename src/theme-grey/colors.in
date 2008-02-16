@@ -1,3 +1,3 @@
-lighterColor='#eeeeec'
-mediumColor='#555753'
-darkerColor='#2e3436'
+set(lighterColor "#eeeeec")
+set(mediumColor "#555753")
+set(darkerColor "#2e3436")

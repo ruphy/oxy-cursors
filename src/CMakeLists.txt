@@ -21,6 +21,8 @@ set(COLORS
     norway
     obsidian
     obsidian-hc
+    olympus
+    olympus-inv
     orchid
     oxygen
     peach
